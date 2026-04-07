@@ -28,13 +28,14 @@ This project analyzes Airbnb listing data to uncover pricing trends, revenue pat
 
 ## Dashboard Preview
 
-![Airbnb Dashboard](your-image-file-name.png)
+![Airbnb Dashboard](airbnb_sales.png)
 
 ## Files Included
 
 * Tableau dashboard/workbook file
-* Dataset
 * Dashboard screenshot for quick reference
+
+* Dataset - couldn't be uploaded due to large size
 
 ## Business Impact
 
