@@ -1,53 +1,46 @@
-# Airbnb_pricing_dashboard
-This project presents an interactive Tableau dashboard analyzing housing revenue trends, pricing patterns, and regional variations across zip codes.
+# Airbnb Pricing & Revenue Analysis Dashboard
 
-📌 Project Overview
+## Overview
 
-The objective of this project was to perform exploratory data analysis and develop a KPI-driven dashboard to understand:
+This project analyzes Airbnb listing data to uncover pricing trends, revenue patterns, and geographic variations in property values. The dashboard leverages weekly aggregation and multi-dimensional analysis to provide actionable insights into pricing strategy and market behavior.
 
-Revenue trends over time
+## Key Insights
 
-Average price per bedroom
+* Identified a steady upward **weekly revenue trend**, with peak values exceeding 2M, indicating strong seasonal demand patterns
+* Analyzed pricing variation by bedroom count, observing a consistent increase from **~96 (1-bedroom)** to **~584 (6-bedroom)** properties
+* Detected significant **price disparities across ZIP codes**, highlighting high-value and underpriced regions
+* Mapped geographic distribution of property prices to reveal **location-driven pricing clusters**
+* Observed that **1-bedroom listings dominate inventory (1,800+ listings)**, while larger properties are significantly less common
 
-Regional price distribution across zip codes
+## Dashboard Features
 
-Market concentration patterns
+* Weekly time-series revenue analysis
+* Bedroom-wise pricing comparison
+* ZIP code-level price distribution
+* Geographic heatmap of property values
+* Inventory distribution by bedroom count
 
-Bedroom count distribution
+## Tools & Technologies
 
-The dashboard integrates multiple Excel worksheets using data joins and transformations to create a unified analytical dataset.
+* Tableau (Dashboard Development & Visualization)
+* Data Cleaning & Aggregation
+* Exploratory Data Analysis (EDA)
 
-🛠 Tools & Technologies
+## Dashboard Preview
 
-Tableau
+![Airbnb Dashboard](your-image-file-name.png)
 
-Microsoft Excel
+## Files Included
 
-Data Joins & Data Transformation
+* Tableau dashboard/workbook file
+* Dataset
+* Dashboard screenshot for quick reference
 
-Time-Series Visualization
+## Business Impact
 
-Geographic Mapping
+This analysis enables stakeholders to:
 
-📊 Key Insights
-
-Revenue demonstrated consistent growth over the analyzed period.
-
-Pricing varied significantly across zip codes, indicating regional demand differences.
-
-Larger bedroom configurations showed higher pricing, but growth was not strictly linear across locations.
-
-Certain zip codes exhibited premium pricing concentration.
-
-
-🎯 Skills Demonstrated
-
-Dashboard Design & KPI Reporting
-
-Geographic Data Visualization
-
-Data Cleaning & Preparation
-
-Business Intelligence Storytelling
-
-Analytical Thinking
+* Optimize pricing strategies based on bedroom segmentation
+* Identify high-revenue time periods and seasonal demand trends
+* Evaluate geographic pricing differences for investment decisions
+* Understand inventory distribution to align supply with demand
