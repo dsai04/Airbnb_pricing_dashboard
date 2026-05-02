@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing pricing dynamics, seasonal demand patterns, and geographic market distribution across 2,580+ Airbnb listings in Seattle (2016).
 
-![Dashboard Preview](.png)
+![Dashboard Preview](airbnb_analysis.png)
 
 ---
 
@@ -59,7 +59,7 @@ Price per bedroom is highest for 1-bedroom ($96.25) and 6-bedroom ($97.47) listi
 
 ## How to View
 
-1. Download the `.twbx` file from this repository(uploading soon)
+1. Download the `.twbx` file from this repository
 2. Open with Tableau Desktop or Tableau Public
 3. Use the ZIP Group filter (Top ZIPs toggle) and Bedroom filter to explore segments
 
