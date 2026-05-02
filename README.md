@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing pricing dynamics, seasonal demand patterns, and geographic market distribution across 2,580+ Airbnb listings in Seattle (2016).
 
-![Dashboard Preview](airbnb.png)
+![Dashboard Preview](.png)
 
 ---
 
